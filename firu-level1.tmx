@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8_1" segtype="sentence" srclang="FI"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="FI">
+        <seg>Гражданский кодекс Российской Федерации.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="stsypanov" changedate="20150203T090441Z" creationid="stsypanov" creationdate="20150203T090441Z">
+        <seg>Venäjän federaation Siviililaki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Общество имеет в собственности обособленное имущество, учитываемое на его самостоятельном балансе, может от своего имени приобретать и осуществлять имущественные и личные неимущественные права, нести обязанности, быть истцом и ответчиком в суде.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="stsypanov" changedate="20150203T094428Z" creationid="stsypanov" creationdate="20150203T094428Z">
+        <seg>Yhtiö omistaa omaisuutta, joka kuuluu yhtiön varoihin, voi ouolestaan hankkia ja käyttää omaisuus- ja ei-rahalliset oikeudet, kantaa vastuuta sekä toimia asiankantajana ja vastaajana oikeudessa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Общество может иметь гражданские права и нести гражданские обязанности, необходимые для осуществления любых видов деятельности, не запрещенных федеральными законами, если это не противоречит предмету и целям деятельности, определенно ограниченным уставом общества.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="stsypanov" changedate="20150203T094917Z" creationid="stsypanov" creationdate="20150203T094917Z">
+        <seg>Yhtiö voi omistaa siviilioikeuksia ja kantaa siviilivastuuta, joita tarvitaan Venäjän federaation lainsäädännön hyväksymän toiminnan suorittamiseksi siltä osin kuin se vastaa yhtiön yhteisösäännössä ilmoitettuja toimialoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Общество не отвечает по обязательствам своих участников.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="stsypanov" changedate="20150203T095032Z" creationid="stsypanov" creationdate="20150203T095032Z">
+        <seg>Yhtiö ei vastaa sen osallistujien velvoitteista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Общество несет ответственность по своим обязательствам всем принадлежащим ему имуществом.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="stsypanov" changedate="20150203T095005Z" creationid="stsypanov" creationdate="20150203T095005Z">
+        <seg>Yhtiön kantaa vastuuta velvoitteistaan kaikilla omistamalla omaisuudellaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Обществом с ограниченной ответственностью (далее - общество) признается созданное одним или несколькими лицами хозяйственное общество, уставный капитал которого разделен на доли; участники общества не отвечают по его обязательствам и несут риск убытков, связанных с деятельностью общества, в пределах стоимости принадлежащих им долей в уставном капитале общества.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="stsypanov" changedate="20150203T093015Z" creationid="stsypanov" creationdate="20150203T093015Z">
+        <seg>Rajavastuuyhtiö (jäljempänä yhtiö) on yhden tai muutaman henkilön perustama yritys, jonka pääoma on jaettu osuuksiksi. Yhtiön osallistujat eivät vastaa yhtiön velvoitteista ja kantavat tappioriskiä yhtiön toiminnan yhdeydessä, mikä rajoittuu niiden omistamiin yhtiön pääoman osuuksiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Основные положения об обществах с ограниченной ответственностью</seg>
+      </tuv>
+      <tuv lang="RU" changeid="stsypanov" changedate="20150203T091341Z" creationid="stsypanov" creationdate="20150203T091341Z">
+        <seg>Rajavastuuyhtiölain yleiset säännöt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Ответственность общества</seg>
+      </tuv>
+      <tuv lang="RU" changeid="stsypanov" changedate="20150203T094931Z" creationid="stsypanov" creationdate="20150203T094931Z">
+        <seg>Yhtiön vastuu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Ответственность юридического лица</seg>
+      </tuv>
+      <tuv lang="RU" changeid="stsypanov" changedate="20150203T094935Z" creationid="stsypanov" creationdate="20150203T090454Z">
+        <seg>Oikeushenkilön vastuu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Пункт 1.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="stsypanov" changedate="20150203T091343Z" creationid="stsypanov" creationdate="20150203T091343Z">
+        <seg>Kohta 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Пункт 2.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="stsypanov" changedate="20150203T090508Z" creationid="stsypanov" creationdate="20150203T090508Z">
+        <seg>Kohta 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Статья 2.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="stsypanov" changedate="20150203T091304Z" creationid="stsypanov" creationdate="20150203T091304Z">
+        <seg>Artikla 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Статья 3.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="stsypanov" changedate="20150203T094918Z" creationid="stsypanov" creationdate="20150203T094918Z">
+        <seg>Artikla 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Статья 56.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="stsypanov" changedate="20150203T090446Z" creationid="stsypanov" creationdate="20150203T090446Z">
+        <seg>Artikla 56.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Учредитель (участник) юридического лица или собственник его имущества не отвечает по обязательствам юридического лица, а юридическое лицо не отвечает по обязательствам учредителя (участника) или собственника, за исключением случаев, предусмотренных настоящим Кодексом или другим законом.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="stsypanov" changedate="20150203T090845Z" creationid="stsypanov" creationdate="20150203T090845Z">
+        <seg>Oikeushenkilön perustaja (osallistuja) tai sen omaisuuden omistaja eivät vastaa oikeushenkilön velvoitteistä eikä oikeushenkilö vastaa perustajan (osallistujan) velvoitteista mukaan lukematta tämän tai muun lain edellyttämiä tapauksia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Федеральный закон от 08 февраля 1998 года № 14-ФЗ «Об обществах с ограниченной ответственностью».</seg>
+      </tuv>
+      <tuv lang="RU" changeid="stsypanov" changedate="20150203T091300Z" creationid="stsypanov" creationdate="20150203T091300Z">
+        <seg>Federaation Rajavastuuyhtiölaki (08.02.1998 nro 14-FZ).</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

@@ -1,0 +1,2433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8_1" segtype="sentence" srclang="FI"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="FI">
+        <seg>(lääkkeen nimi)</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210727Z" creationid="Сергей" creationdate="20150127T210727Z">
+        <seg>(наименование лекарства)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>*) Täytetään haettaessa korvausta suorakorvaustilityksenä.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202359Z" creationid="Сергей" creationdate="20150127T202359Z">
+        <seg>*) Заполняется при получении прямого возмещения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>0,10 kg/m2</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T181820Z" creationid="Сергей" creationdate="20150131T181820Z">
+        <seg>0,10 кг/м2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>0101D, Käynti yleislääkärillä, 45 m kipsaus, reponointi, injektiolääkitys</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203842Z" creationid="Сергей" creationdate="20150127T203842Z">
+        <seg>0101D, Посещение терапевта, 45 м гипсование, репанация, введение инъекции</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>0101a, enintään 10 min</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204804Z" creationid="Сергей" creationdate="20150127T204804Z">
+        <seg>0101a, не более 10 мин</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>0101b, enintään 20 min</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204813Z" creationid="Сергей" creationdate="20150127T204813Z">
+        <seg>0101b, не более 20 мин</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>0101c, enintään 30 min</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204816Z" creationid="Сергей" creationdate="20150127T204816Z">
+        <seg>0101c, не более 30 мин</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>0101d, enintään 45 min</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204822Z" creationid="Сергей" creationdate="20150127T204822Z">
+        <seg>0101d, не более 45 мин</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>0101e, enintään 60 min</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204828Z" creationid="Сергей" creationdate="20150127T204828Z">
+        <seg>0101e, не более 60 мин</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>0102, enintään 60 min</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204844Z" creationid="Сергей" creationdate="20150127T204844Z">
+        <seg>0102, не более 60 мин</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>0103, yli 60 min Tuntia pitempi käynti kestänyt ___ min</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204913Z" creationid="Сергей" creationdate="20150127T204913Z">
+        <seg>0103, свыше 60 min Приём длительнее часа продолжался ___ мин</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>0104, Lääkärinlausunto B, erittäin laaja ja perusteellinen</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205154Z" creationid="Сергей" creationdate="20150127T205154Z">
+        <seg>0104, Заключение врача B, очень подробное и обоснованное</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>0105, Lääkärinlausunto B, laaja</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205136Z" creationid="Сергей" creationdate="20150127T205136Z">
+        <seg>0105, Заключение врача B, подробное</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>0106, Lääkärinlausunto B, tavallinen</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205122Z" creationid="Сергей" creationdate="20150127T205122Z">
+        <seg>0106, Заключение врача B, обычное</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>0107, Lääkärintodistus A tai lääkärintodistus D</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205108Z" creationid="Сергей" creationdate="20150127T205108Z">
+        <seg>0107, Удостоверение врача A или удостоверение врача D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>050 2940 99100 Sirkka Fax</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210539Z" creationid="Сергей" creationdate="20150127T210539Z">
+        <seg>050 2940 99100 Sirkka Факс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>1 Rec- Lääke, vahvuus, määrä tai hoidon kestoaika, annostus ja käyttötarkoitus ARCOXIA tabletti, kalvopäällysteinen 90 mg MSD läpipainopakkaus, 1 x 7 fol</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210254Z" creationid="Сергей" creationdate="20150127T210254Z">
+        <seg>1 Рецепт Лекарство, сила, количество и продолжительность приёма, дозировка ARCOXIA таблетки в оболочке 90 мг MSD выдавливаемая упаковка, 1 x 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>1 Rec.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210419Z" creationid="Сергей" creationdate="20150127T210419Z">
+        <seg>1 Цепепт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>1 tabletka v den' v techeniye odnoy nedeli, yesli zapyasfye bolit</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210314Z" creationid="Сергей" creationdate="20150127T210314Z">
+        <seg>1 таблекта в день в течение одной недели при боли в запястье</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>1,35 kg/m2</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T181827Z" creationid="Сергей" creationdate="20150131T181827Z">
+        <seg>1,35 кг/м2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>1.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T185110Z" creationid="Сергей" creationdate="20150131T185110Z">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>2 Rec.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210420Z" creationid="Сергей" creationdate="20150127T210420Z">
+        <seg>2 Цепепт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>2.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T185114Z" creationid="Сергей" creationdate="20150131T185114Z">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>2TTA Taulavuori Teemu</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204437Z" creationid="Сергей" creationdate="20150127T204437Z">
+        <seg>2TTA Таулавуори Тээму</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>3.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T185106Z" creationid="Сергей" creationdate="20150131T185106Z">
+        <seg>3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>33800</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T183148Z" creationid="Сергей" creationdate="20150131T183148Z">
+        <seg>33800</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>4.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T185932Z" creationid="Сергей" creationdate="20150131T185932Z">
+        <seg>4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>5.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T190416Z" creationid="Сергей" creationdate="20150131T190416Z">
+        <seg>5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>AIKA: 10:43:50</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203158Z" creationid="Сергей" creationdate="20150127T203158Z">
+        <seg>ВРЕМЯ: 10:43:50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>ALLEKIRJOITUS</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205750Z" creationid="Сергей" creationdate="20150127T205750Z">
+        <seg>ПОДПИСЬ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>ALV 0% (AVL 34-36§)</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204405Z" creationid="Сергей" creationdate="20150127T204405Z">
+        <seg>НДС % (Закон о НДС §34-36)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>ASENNUSOHJE:</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T181450Z" creationid="Сергей" creationdate="20150131T181450Z">
+        <seg>РУКОВОДСТВО ПО УСТАНОВКЕ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>ASIAKKAAN KAPPALE</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203136Z" creationid="Сергей" creationdate="20150127T203136Z">
+        <seg>ЧАСТЬ КЛИЕНТА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Ajanvaraus:</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204551Z" creationid="Сергей" creationdate="20150127T204551Z">
+        <seg>Бронирование времени:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Alennus</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203746Z" creationid="Сергей" creationdate="20150127T203746Z">
+        <seg>Скидка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Alle 12-vuotiaan paino</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205849Z" creationid="Сергей" creationdate="20150127T205849Z">
+        <seg>Вес меньше веса 12-летнего</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Allekirjoitus, nimen selvennys ja yksilöintitunnus</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210749Z" creationid="Сергей" creationdate="20150127T210749Z">
+        <seg>ПОдпись, имя и личный код</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Alustan tulee olla kantava, kiinteä, pölytön, rasvaton, tasainen ja puhdas.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T181527Z" creationid="Сергей" creationdate="20150131T181527Z">
+        <seg>Поверхность должна быть устойживой, твёрдой, ровной, очищенной от пыли, жира и загрязнений.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Alustan tulee olla kantava, kiinteä, tasainen, pölytön, rasvaton ja puhdas.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T160053Z" creationid="Сергей" creationdate="20150131T160053Z">
+        <seg>Поверхность должна быть устойживой, твёрдой, ровной, очищенной от пыли, жира и загрязнений.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Alustan valmistelu</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T160027Z" creationid="Сергей" creationdate="20150131T160027Z">
+        <seg>Подготовка поверхности</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Alv%</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203727Z" creationid="Сергей" creationdate="20150127T203727Z">
+        <seg>НДС%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Anlagetik</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210318Z" creationid="Сергей" creationdate="20150127T210318Z">
+        <seg>Анальгетик</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Arkipäivänä klo 21-7</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205509Z" creationid="Сергей" creationdate="20150127T205509Z">
+        <seg>Будний день 21-7 часов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Asennusvaiheessa kivipinnan päälle voi helposti jäädä liimaa, jolloin puhdistus tapahtuu vaivattomasti joko lämpimällä vedellä tai Skinrock® Care -puhdistusaineella liinaa käyttäen.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T153913Z" creationid="Сергей" creationdate="20150131T153913Z">
+        <seg>При нанесении облицовки на ней может оставаться клей, который легко удаляется тёплой водой или с помощью салфетки и средства для чистки Skinrock® Care.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Asentaessasi N-tyyppiä, pyyhi levyn tausta puhtaaksi Skinrock® Cleanerilla liinaa käyttäen.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T184532Z" creationid="Сергей" creationdate="20150131T184532Z">
+        <seg>При установке Н-типа, очистите основание плитки салфеткой Skinrock® Cleaner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>B-lausunto eläkettä varten, lääkärinlausunto C tai E</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205256Z" creationid="Сергей" creationdate="20150127T205238Z">
+        <seg>заключение В для лекарства, заключение С или Е</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Drozdovva Polina</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202410Z" creationid="Сергей" creationdate="20150127T202410Z">
+        <seg>Дрохдова Полина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Drozdowa Polina</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203610Z" creationid="Сергей" creationdate="20150127T203610Z">
+        <seg>Дроздова Полина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>EUR</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203341Z" creationid="Сергей" creationdate="20150127T203341Z">
+        <seg>ЕВРО</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Ennen asennusta epätasainen alusta on tasattava pohja- tai pintatasoitteella.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T160212Z" creationid="Сергей" creationdate="20150131T160212Z">
+        <seg>Перед установкой неровная поверхность должна быть выровнена выравнивающей шпаклёвкой.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Ennen asennusta yksittäiset Skinrock® -levyt mitoitetaan, leikataan ja liimattava pinta puhdistetaan liasta.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T184827Z" creationid="Сергей" creationdate="20150131T184827Z">
+        <seg>Перед установкой размечаются отдельные плиты Skinrock®, а обрабатываемая поверхность очищается от загрязнений.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Esim.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205217Z" creationid="Сергей" creationdate="20150127T205217Z">
+        <seg>Например</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Esittäkää Kela-kortti apteekissa.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210811Z" creationid="Сергей" creationdate="20150127T210811Z">
+        <seg>Предоставьте карту Кела в аптеке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Fax</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202951Z" creationid="Сергей" creationdate="20150127T202951Z">
+        <seg>Факс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>H222 Легковоспламеняющиеся аэрозоли.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T195138Z" creationid="Сергей" creationdate="20150128T195138Z">
+        <seg>H222 Erittäin helposti syttyvä aerosoli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>H229 Баллон под давлением: при нагревании может произойти взрыв.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T195446Z" creationid="Сергей" creationdate="20150128T195240Z">
+        <seg>H229 Painesäiliö: Voi revetä kuumennettaessa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>H304 Может быть смертельно при проглатывании и вдыхании.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T195310Z" creationid="Сергей" creationdate="20150128T195310Z">
+        <seg>Н304 Voi olla tappavaa nieltynä ja joutuessaan hengitysteihin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>H315 Вызывает раздражение кожи.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T195324Z" creationid="Сергей" creationdate="20150128T195324Z">
+        <seg>H315 Ärsyttää ihoa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>H336 Может вызывать сонливость или головокружение.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T195443Z" creationid="Сергей" creationdate="20150128T195443Z">
+        <seg>H336 Saattaa aiheuttaa uneliaisuutta ja huimausta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>H410 Весьма токсично для водных организмов с долгосрочными последствиями.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T195504Z" creationid="Сергей" creationdate="20150128T195504Z">
+        <seg>H410 Erittäin myrkyllistä vesieliöille, pitkäaikaisia haittavaikutuksia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Henkilötunnus</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202422Z" creationid="Сергей" creationdate="20150127T202422Z">
+        <seg>Личный номер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Hinnoitus</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210326Z" creationid="Сергей" creationdate="20150127T210326Z">
+        <seg>Ценообразование</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Hinta</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203747Z" creationid="Сергей" creationdate="20150127T203747Z">
+        <seg>Цена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Hoito annettu</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204647Z" creationid="Сергей" creationdate="20150127T204647Z">
+        <seg>Уход предоставлен</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Ilmoittamamme ohjeet ja suositukset perustuvan kokeisiin ja kokemukseemme.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T183732Z" creationid="Сергей" creationdate="20150131T183732Z">
+        <seg>Заявленные нами руководства и советы основаны на испытаниях и ношем опыте.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Jos asennusvaiheessa kivipinnalle menee liimaa tai laastia, pyyhi se nopeasti pois lämpimällä vedellä tai Skinrock® Care -puhdistusaineella.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T185901Z" creationid="Сергей" creationdate="20150131T185901Z">
+        <seg>Если при установке облицовки на ней остаёться клей, который легко удаляется тёплой водой или с помощью салфетки и средства для чистки Skinrock® Care.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Jos käytät asennuksessa saumaa (ulkotiloissa välttämätöntä), anna asennuksen kuivua vähintään yksi vuorokausi ennen saumaamista.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T190815Z" creationid="Сергей" creationdate="20150131T190815Z">
+        <seg>Если при облицовке вы используете швы (что неизбежно при внешних работах), облицовка должна просыхать не меньше суток до наложения швов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Jos olette tyytymätön apteekin lääkkeen hinnasta vähentämään sairausvakuutuslain mukaiseen korvaukseen, voitte pyytää muutoksenhakua varten kirjallisen päätöksen Kelasta tai työpaikkakassasta 6 kuukauden kuluessa lääkkeen ostamisesta.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T055306Z" creationid="Сергей" creationdate="20150128T055306Z">
+        <seg>Если вы недовольны скидке на лекарство, соответствующую закону "О медицинской страховке", вы можете запросить для обжалования письменное решение Kela или на рабочем месте в течение 6 иесяцев после покупки лекарства.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Joustavuus</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T180730Z" creationid="Сергей" creationdate="20150131T180730Z">
+        <seg>Гибкость</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>KASSA: 001</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203211Z" creationid="Сергей" creationdate="20150127T203211Z">
+        <seg>КАССА: 001</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>KIITOS KÄYNNISTÄ!</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203358Z" creationid="Сергей" creationdate="20150127T203358Z">
+        <seg>СПАСИБО ЗА ПОСЕЩЕНИЕ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>KORTTIMAKSUTOSITE</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203144Z" creationid="Сергей" creationdate="20150127T203144Z">
+        <seg>ЧЕК ОПЛАТЫ КАРТОЧКОЙ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>KOTIKÄYNTI</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204838Z" creationid="Сергей" creationdate="20150127T204838Z">
+        <seg>ПОСЕЩЕНИЕ НА ДОМУ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>KROWN очиститель тормозов - аэрозоль</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150129T055954Z" creationid="Сергей" creationdate="20150129T055954Z">
+        <seg>KROWN aerosolinen jarrupuhdistusaine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Kaareville pinnoille asentaessasi suosittelemme lämmittämään levyä ensiksi esim. kuumailmapuhaltimella, jotta saat siitä joustavamman ja täten pysymään paremmin kiinni kohteessa.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T185755Z" creationid="Сергей" creationdate="20150131T185755Z">
+        <seg>При установке на изогнутые поверхности рекомендуем вам предварительно нагревать плиты, например с помощью источника горячего воздуха, чтобы сделать их более гибкими и таким образом улучшить их сцепление с поверхностью.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Katso, ettei ilmaa jää lainkaan levyn alle.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T190415Z" creationid="Сергей" creationdate="20150131T190415Z">
+        <seg>Следите за тем, чтобы клей не остался под плитой.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Kiinnitys</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T153522Z" creationid="Сергей" creationdate="20150131T153522Z">
+        <seg>Крепление</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Kipsaus, tavallinen</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202802Z" creationid="Сергей" creationdate="20150127T202802Z">
+        <seg>Гипсование, обычное</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Kittilä</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204540Z" creationid="Сергей" creationdate="20150127T204540Z">
+        <seg>Киттиля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Kokonaispaino</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T181830Z" creationid="Сергей" creationdate="20150131T181830Z">
+        <seg>Общий вес</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Kokonaisvahvuus</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T181809Z" creationid="Сергей" creationdate="20150131T181809Z">
+        <seg>Общая толщина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Koodi</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202523Z" creationid="Сергей" creationdate="20150127T202523Z">
+        <seg>Код</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Koodi Toimenpide</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205441Z" creationid="Сергей" creationdate="20150127T205441Z">
+        <seg>Код Мероприятия</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Koodi Tutkimus</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205550Z" creationid="Сергей" creationdate="20150127T205550Z">
+        <seg>Код Обследование</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Koot</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T181342Z" creationid="Сергей" creationdate="20150131T181342Z">
+        <seg>Размеры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Korvauksen peruste *)</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202614Z" creationid="Сергей" creationdate="20150127T202614Z">
+        <seg>Основание для возмещения *)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Korvaukset</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205629Z" creationid="Сергей" creationdate="20150127T205629Z">
+        <seg>Компенсации</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Korvaus</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203024Z" creationid="Сергей" creationdate="20150127T203024Z">
+        <seg>Возмещение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Korvaus *)</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204754Z" creationid="Сергей" creationdate="20150127T204754Z">
+        <seg>Возмещение *)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Korvaushakemus erillisellä lomakkeella</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203112Z" creationid="Сергей" creationdate="20150127T203112Z">
+        <seg>Заявление на возмещение подаётся на отдельном бланке</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Korvausperusteet yhteensä</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203008Z" creationid="Сергей" creationdate="20150127T203008Z">
+        <seg>Основания для возмещения итого</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Koska käyttäjän työskentelyolosuhteet ovat valvontamme ulkopuolella, emme voi ottaa kantaaksemme vastuuta tuloksista, joita hän saa käyttäessään suosittelemiamme aineita ja ohjeita.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T184407Z" creationid="Сергей" creationdate="20150131T184407Z">
+        <seg>Так как мы не наблюдаем за условиями работы пользователя, мы не можем принять ответственность за результат, который он получит используя рекомендованные нами материалы и руководства.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Kotikäynnin yhteydessä</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204937Z" creationid="Сергей" creationdate="20150127T204937Z">
+        <seg>В связи с посещением на дому</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Kotipaikka:</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204534Z" creationid="Сергей" creationdate="20150127T204534Z">
+        <seg>Местонахождение:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Kulutus on noin 50 ml/ m2.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T181723Z" creationid="Сергей" creationdate="20150131T181723Z">
+        <seg>Расход составляет около 50 мл/м2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Kuoppamäentie 3 A</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T144335Z" creationid="Сергей" creationdate="20150131T144335Z">
+        <seg>Адрес: Куоппамаентиэ 3 А</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Kustannukset</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205625Z" creationid="Сергей" creationdate="20150127T205625Z">
+        <seg>Расходы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Kustannukset yhteensä</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202956Z" creationid="Сергей" creationdate="20150127T202956Z">
+        <seg>Расходы итого</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Kustannus</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202600Z" creationid="Сергей" creationdate="20150127T202600Z">
+        <seg>Расходы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Kysymyksessä on</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202428Z" creationid="Сергей" creationdate="20150127T202428Z">
+        <seg>Речь идёт о</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>KÄTEISKUITTI</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203510Z" creationid="Сергей" creationdate="20150127T203510Z">
+        <seg>ЧЕК ОПЛАТЫ НАЛИЧНЫМИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>KÄYNTIAIKA</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205450Z" creationid="Сергей" creationdate="20150127T205450Z">
+        <seg>ВРЕМЯ ПОСЕЩЕНИЯ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Käsittele Skinrock® -kivipinta suoja-aineella ennen asennusta.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T181628Z" creationid="Сергей" creationdate="20150131T181628Z">
+        <seg>Перед установко обработайте каменнкю облицовку Skinrock® защитным средством.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Käyntipäivä</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202541Z" creationid="Сергей" creationdate="20150127T202541Z">
+        <seg>День посещения</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>LAUSUNTO</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205003Z" creationid="Сергей" creationdate="20150127T205003Z">
+        <seg>ЗАКЛЮЧЕНИЕ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>LISÄTIETOJA</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205622Z" creationid="Сергей" creationdate="20150127T205622Z">
+        <seg>ДОПОЛНИТЕЛЬНЫЕ ДАННЫЕ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>LY: 022411040</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203300Z" creationid="Сергей" creationdate="20150127T203300Z">
+        <seg>Код LY: 022411040</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Lauantaina tai pyhäpäivän aattonako  klo 18:n jälkeen</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205522Z" creationid="Сергей" creationdate="20150127T205522Z">
+        <seg>В субботу или накануне праздника после 18.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Leikkaus ja käsittely</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T154003Z" creationid="Сергей" creationdate="20150131T154003Z">
+        <seg>Нарезка и обработка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Levintie 1590</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203536Z" creationid="Сергей" creationdate="20150127T203536Z">
+        <seg>Адрес: Levintie 1590</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Levintie 1590 Puh.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210530Z" creationid="Сергей" creationdate="20150127T210530Z">
+        <seg>Адрес: 1590 Тел.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Levintie1590, 99130 SIRKKA</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204514Z" creationid="Сергей" creationdate="20150127T204514Z">
+        <seg>Адрес: Levintie 1590, 99130 SIRKKA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Levyn asennettuasi, painele tai rullaa ilma pois levyn alta keskeltä ulospäin käyttäen pehmustettua lastaa tai käsirullaa.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T190141Z" creationid="Сергей" creationdate="20150131T190141Z">
+        <seg>При установки плиты выдавливайте или скатывайте клей из-под плиты от середины к краям используя смягченный шпатель или ручной валик.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Liima puolestaan on tarkoitettu kosteisiin tiloihin ja liukkaille pinnoille, sisältäen teräs-, rauta- ja muovipinnat sekä kaikki kaarevat/ pyöreät pinnat, kuten tolpat.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T185535Z" creationid="Сергей" creationdate="20150131T185535Z">
+        <seg>В свою очередь клей предназначен для влажных помещений и скользких поверхностей, включая стальные, железные и пластиковые, а также все изогнутые/круглые поверхности, например столбов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Liima tai saneerauslaasti levitetään tasaisesti alustalle (suosittelemme 4 mmm hammastettua lastaa).</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T185203Z" creationid="Сергей" creationdate="20150131T185203Z">
+        <seg>Клей или восстановительную штукатурку наносят равномерно на поверхность (советуем использовать 4 мм зубчатый шпатель).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Lkm / Aika</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203735Z" creationid="Сергей" creationdate="20150127T203735Z">
+        <seg>Кол. / Время</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Lue asennusohjeet huolellisesti läpi ennen kuin aloitat!</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T181517Z" creationid="Сергей" creationdate="20150131T181517Z">
+        <seg>Перед началом внимательно прочитайте руководство по установке!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Luonnonkivi</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T181737Z" creationid="Сергей" creationdate="20150131T181737Z">
+        <seg>Дикий камень</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Luonnonkivi ja sen luonnolliset värit tekevät jokaisesta neliösenttimetristä ainutlaatuisen.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T152658Z" creationid="Сергей" creationdate="20150131T152658Z">
+        <seg>Дикий камень и его природные цвета сделают неповторимой каждую пядь поверхности.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Luonnonkivipinnat puhdistetaan säännöllisesti kostealla liinalla, mutta vaikeampien tahrojen puhdistukseen suosittelemme Skinrock® Care -puhdistusainetta.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T160329Z" creationid="Сергей" creationdate="20150131T160329Z">
+        <seg>Поверхности из дикого камня регулярно очищаются влажной салфеткой, однако для более сложных пятен советуем использовать средство для чистки Skinrock® Care.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>LÄÄKEMÄÄRÄYS</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205832Z" creationid="Сергей" creationdate="20150127T205832Z">
+        <seg>ПРЕДПИСАНИЕ ВРАЧА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>LÄÄKÄRI JA</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205653Z" creationid="Сергей" creationdate="20150127T205653Z">
+        <seg>ВРАЧ И </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>LÄÄKÄRIASEMA</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204446Z" creationid="Сергей" creationdate="20150127T204446Z">
+        <seg>МЕДИЦИНСКИЙ УЧАСТОК</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>LÄÄKÄRIN</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204927Z" creationid="Сергей" creationdate="20150127T204927Z">
+        <seg>ВРАЧА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>LÄÄKÄRIN MÄÄRÄÄMÄT TUTKIMUS- TAI HOITOTOIMENPITEET.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202504Z" creationid="Сергей" creationdate="20150127T202504Z">
+        <seg>ПРЕДПИСАННЫЕ ВРАЧОМ, ОБСЛЕДОВАНИЯ ИЛИ МЕРОПРИЯТИЙ ПО УХОДУ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Lääke</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202811Z" creationid="Сергей" creationdate="20150127T202811Z">
+        <seg>Лекарство</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Lääke Lidocain, Panacod, Burana</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203959Z" creationid="Сергей" creationdate="20150127T203959Z">
+        <seg>Воскресенье, лидокаин, панакод, бурана</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Lääkemääräyksen uusiminen, yksi tai useampi; ei vastaanoton yhteydessä</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205422Z" creationid="Сергей" creationdate="20150127T205422Z">
+        <seg>Обновление предписания врача, одно- или многократное, не в связи с приёмом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Lääkemääräyksen vastaanottanut apteekki, Kela ja työpaikkakassa antavat kukin omalta osaltaan lisätietoja tässä lääkemääräyksessä olevien tietojen käsittelystä.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T055004Z" creationid="Сергей" creationdate="20150128T055004Z">
+        <seg>Принявшая рецепт аптека, Кела или отвественный служащий по месту работы со своей стороны предоставляют дополнительные данные об обработке рецепта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Lääkemääräys on voimassa vuoden sen määräämis- tai uusimispäivästä lukien.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210940Z" creationid="Сергей" creationdate="20150127T210940Z">
+        <seg>Рецепт действует в течение года после выписки или дня обновления</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Lääkärin allekirjoitus tai lääkäriaseman edustajan allekirjoitus ja nimen selvennys</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205821Z" creationid="Сергей" creationdate="20150127T205821Z">
+        <seg>Подпись врача или подпись и имя представителя медицинского участка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Lääkärin leima tai nimi, yksilöintitunnus ja erikoisala;</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205718Z" creationid="Сергей" creationdate="20150127T205718Z">
+        <seg>Печать врача или его имя, личный код и специализация;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Lääkärin vastaanotto</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204105Z" creationid="Сергей" creationdate="20150127T204105Z">
+        <seg>Приём врача</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>MATKA</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204923Z" creationid="Сергей" creationdate="20150127T204923Z">
+        <seg>ВЫЕЗД</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>MEDILAPPI</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204456Z" creationid="Сергей" creationdate="20150127T204456Z">
+        <seg>"МЕДИЛАППИ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Maksettu 04.01.2015:</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204415Z" creationid="Сергей" creationdate="20150127T204415Z">
+        <seg>Уплачено 04.01.2015:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Mallisto</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T152704Z" creationid="Сергей" creationdate="20150131T152704Z">
+        <seg>Модельный ряд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Materiaalia voidaan leikata myös peltisaksilla tai pistosahalla.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T155252Z" creationid="Сергей" creationdate="20150131T155252Z">
+        <seg>Материал можно резать также ножницами для листового металла или лобзиком.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>MediLappi Oy Levi</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205744Z" creationid="Сергей" creationdate="20150127T205744Z">
+        <seg>АО "Медилеви" Леви</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Medilappi Oy</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203518Z" creationid="Сергей" creationdate="20150127T203518Z">
+        <seg>АО "Медилеви"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Medilevi Oy</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203131Z" creationid="Сергей" creationdate="20150127T203131Z">
+        <seg>АО "Медилеви"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Merkitään sairausvakuutustaksan mukainen koodi.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202520Z" creationid="Сергей" creationdate="20150127T202520Z">
+        <seg>Обозначается код, соответствующий таксе медицинской страховки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Mikäli suunnittelet valoa läpäisevää kohdetta, otathan meihin yhteyttä saadaksesi siihen juuri sinun tarpeisiisi räätälöidyt ohjeet.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T184709Z" creationid="Сергей" creationdate="20150131T184709Z">
+        <seg>Если вы планируете прозрачное решение, свяжитесь с нами для получения руководства специально для ваших потребностей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Muista repiä teippi heti saumauksen jälkeen pois.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T191425Z" creationid="Сергей" creationdate="20150131T191425Z">
+        <seg>Не забудьте удалить лентусразу же после нанесения швов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Muistathan liimaa käyttäessäsi huolehtia hyvästä ilmanvaihdosta.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T185931Z" creationid="Сергей" creationdate="20150131T185931Z">
+        <seg>При использование клея помните о необходимости хорошего проветривания помещения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Muu</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210010Z" creationid="Сергей" creationdate="20150127T210010Z">
+        <seg>Иное</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Muut laitosmaksut ja tarvikkeet</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204100Z" creationid="Сергей" creationdate="20150127T204100Z">
+        <seg>Прочие услуги и принадлежности</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Muuta etuutta varten</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205041Z" creationid="Сергей" creationdate="20150127T205041Z">
+        <seg>Для другой прерогативы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>N-tyyppi on tarkoitettu sisäkäyttöön ja läpäisee valon, joten se mahdollistaa luovemmatkin ratkaisut eri käyttökohteissa.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T153518Z" creationid="Сергей" creationdate="20150131T153518Z">
+        <seg>Исполнение Н предназначено для использования в помещениях и отражает свет, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>NRO: 425811</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203448Z" creationid="Сергей" creationdate="20150127T203448Z">
+        <seg>НОМЕР: 425811</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Ne ovat tarkoitettu avustamaan käyttäjää löytämään sopivimman työtavan ja saamaan parhaan mahdollisen lopputuloksen.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T183820Z" creationid="Сергей" creationdate="20150131T183820Z">
+        <seg>Они предназначены для того, чтобы помочь пользователю найти наилучший подход к работе и получить наилучший возможный результат.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Nimen selvennys ja yksilöintitunnus</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210448Z" creationid="Сергей" creationdate="20150127T210448Z">
+        <seg>Имя и личный код</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Näytteen ottaneen, tutkimuksen tehneen tai hoidon antaneen henkilön / palvelujen tuottajan nimi tai leima ja allekirjoitus.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203037Z" creationid="Сергей" creationdate="20150127T203037Z">
+        <seg>Имя или печать и подпись поставщика услуг / лица, предоставившего уход, проводившего исследование или анализы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Oma auto</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204942Z" creationid="Сергей" creationdate="20150127T204942Z">
+        <seg>На своей машине</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Omavastuuosuus</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203021Z" creationid="Сергей" creationdate="20150127T203021Z">
+        <seg>Оплата из своего кармана</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Osa 1</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205835Z" creationid="Сергей" creationdate="20150127T205835Z">
+        <seg>Часть 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Otetaan 1</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210628Z" creationid="Сергей" creationdate="20150127T210600Z">
+        <seg>Принято 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Otetaan 2</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210636Z" creationid="Сергей" creationdate="20150127T210602Z">
+        <seg>Принято 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>P102 Хранить в недоступном для детей месте.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T195527Z" creationid="Сергей" creationdate="20150128T195527Z">
+        <seg>P102 Säilytä lasten ulottumattomissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>P210 Держать вдали от тепла, искр, открытого огня и горячих поверхностей.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T195550Z" creationid="Сергей" creationdate="20150128T195550Z">
+        <seg>P210 Suojaa lämmöltä/kipinöiltä/avotulelta/kuumilta pinnoilta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>P211 Не распылять вблизи открытого огня или других источников возгорания.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T195749Z" creationid="Сергей" creationdate="20150128T195749Z">
+        <seg>P211 Ei saa suihkuttaa avotuleen tai muuhun sytytyslähteeseen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>P240 Заземлить/Электрически соединить контейнер и приёмное оборудование.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T195800Z" creationid="Сергей" creationdate="20150128T195800Z">
+        <seg>P240 Säiliö ja vastaanottavat laitteet on maadoitettava/yhdistettävä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>P251 Емкость под давлением: не протыкать и не сжигать даже после использования.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T195812Z" creationid="Сергей" creationdate="20150128T195812Z">
+        <seg>P251 Painesäiliö: Ei saa puhkaista tai polttaa edes tyhjänä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>P260 Не вдыхать пары/аэрозоли.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T195827Z" creationid="Сергей" creationdate="20150128T195827Z">
+        <seg>P260 Älä hengitä pölyä/savua/kaasua/sumua/höyryä/suihketta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>P262 Избегать попадания в глаза, на кожу или на одежду.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T195838Z" creationid="Сергей" creationdate="20150128T195838Z">
+        <seg>P262 Varo kemikaalin joutumista silmiin, iholle tai vaatteisiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>P273 Не допускать попадания в окружающую среду.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T195848Z" creationid="Сергей" creationdate="20150128T195848Z">
+        <seg>P273 Vältettävä päästämistä ympäristöön.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>P410+P412: Беречь от солнечных лучей.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T195917Z" creationid="Сергей" creationdate="20150128T195917Z">
+        <seg>P410+P412: Suojaa auringonvalolta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>P501 Удалить содержимое/контейнер в соответствии с местными правилами.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T200141Z" creationid="Сергей" creationdate="20150128T200141Z">
+        <seg>P501 Hävitä sisältö/pakkaus paikallisten/alueellisten/ kansallisten/kansainvälisten määräysten mukaisesti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>PERUSTELUT ERIKSEEN LUETELLUISTA, SELVITYSTÄ VAATIVISTA LÄÄKKEISTÄ SV-KORVAUSTA VARTEN</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210415Z" creationid="Сергей" creationdate="20150127T210415Z">
+        <seg>ОБОСНОВАНИЕ ОТДЕЛЬНО ПЕРЕЧИСЛЕННЫХ ЛЕКАРСТ, ТРЕБУЮЩИХ ПОЯСНЕНИЯ ДЛЯ ВОЗМЕЩЕНИЯ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>POIKKEAVA</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205446Z" creationid="Сергей" creationdate="20150127T205446Z">
+        <seg>ИСКЛЮЧИТЕЛЬНОЕ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>PUHDISTUS JA KUNNOSSAPITO</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T183206Z" creationid="Сергей" creationdate="20150131T183206Z">
+        <seg>ОЧИСТКА И УХОД</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>PUHELIN-/</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205302Z" creationid="Сергей" creationdate="20150127T205302Z">
+        <seg>ТЕЛЕФОН-/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>PVM: 0P.01.15</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203153Z" creationid="Сергей" creationdate="20150127T203153Z">
+        <seg>ДАТА: 0P.01.15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Paikka ja aika</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210733Z" creationid="Сергей" creationdate="20150127T210733Z">
+        <seg>Время и место</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Paikka ja aika.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202823Z" creationid="Сергей" creationdate="20150127T202823Z">
+        <seg>Время и место.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Paikka, aika ja allekirjoitus</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210435Z" creationid="Сергей" creationdate="20150127T210435Z">
+        <seg>Время, место и подпись</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Paino</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T181812Z" creationid="Сергей" creationdate="20150131T181812Z">
+        <seg>Вес</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Paksuus</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T181732Z" creationid="Сергей" creationdate="20150131T181732Z">
+        <seg>Толщина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Pankkikortti</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203530Z" creationid="Сергей" creationdate="20150127T203530Z">
+        <seg>Банковская карточка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Perityt palkkiot eritellään kohdittain.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204659Z" creationid="Сергей" creationdate="20150127T204659Z">
+        <seg>Взимаемые платы расписаны по пунктам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Polyesteri/lasikuitu</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T181756Z" creationid="Сергей" creationdate="20150131T181756Z">
+        <seg>Полиэстер/стекловолокно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Potilaan nimi</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202404Z" creationid="Сергей" creationdate="20150127T202404Z">
+        <seg>Имя пациента</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Puh 050 2940</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202949Z" creationid="Сергей" creationdate="20150127T202949Z">
+        <seg>Тел 050 2940</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Puh.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204518Z" creationid="Сергей" creationdate="20150127T204518Z">
+        <seg>Тел.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Puhdistus ja kunnossapito</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T160226Z" creationid="Сергей" creationdate="20150131T160226Z">
+        <seg>Очистка и уход</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Puhelimitse/postitse annetut hoito-ohjeet lääkemääräyksineen</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205342Z" creationid="Сергей" creationdate="20150127T205342Z">
+        <seg>Укзаания по уходу и лекарства прописаны по телефону/почтой.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Pvm</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203636Z" creationid="Сергей" creationdate="20150127T203636Z">
+        <seg>Дата</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Pvm: 04.01.2015 As.nro:</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203553Z" creationid="Сергей" creationdate="20150127T203553Z">
+        <seg>ДАТА: 04.01.15 Номер клиента:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>RAD</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204025Z" creationid="Сергей" creationdate="20150127T204025Z">
+        <seg>Радиолог</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Ranteen natiiviröntgen</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204013Z" creationid="Сергей" creationdate="20150127T204013Z">
+        <seg>Рентген запястья</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Rec.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210332Z" creationid="Сергей" creationdate="20150127T210332Z">
+        <seg>Цепепт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Rep.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210716Z" creationid="Сергей" creationdate="20150127T210716Z">
+        <seg>Рецепт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Röntgentutkimukset</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204040Z" creationid="Сергей" creationdate="20150127T204040Z">
+        <seg>Рентгеновское исследование</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>S-tyyppi soveltuu sekä sisä- ja ulkokäyttöön että kosteisiin tiloihin.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T153240Z" creationid="Сергей" creationdate="20150131T153240Z">
+        <seg>Исполнение С подходит для использования внутри и снаружи, а также во влажных помещениях.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>SKINROCK</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T183154Z" creationid="Сергей" creationdate="20150131T183154Z">
+        <seg>SKINROCK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>SKINROCK FINLAND OY</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T144319Z" creationid="Сергей" creationdate="20150131T144319Z">
+        <seg>АО "SKINROCK FINLAND OY"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>SUMMA</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203337Z" creationid="Сергей" creationdate="20150127T203337Z">
+        <seg>СУММА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>SV 1 ATK 04.12 Kelan hyväksymä atk-lääkemääräys 843-7</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210859Z" creationid="Сергей" creationdate="20150127T210859Z">
+        <seg>SV 1 АТК 04.12 Автоматическая анкета, одобренная Kela 843-7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>SV 120 07.11 Kelan hyväksymä lomake 950</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210821Z" creationid="Сергей" creationdate="20150127T210821Z">
+        <seg>SV 120 07.11 Анкета, одобренная Kela 950</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>SV 3 07.11 Kelan hyväksymä lomake 930</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203105Z" creationid="Сергей" creationdate="20150127T203105Z">
+        <seg>SV 3 07.11 Анкета, одобренная Kela 930</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>SVL:n mukaista etuutta varten</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205033Z" creationid="Сергей" creationdate="20150127T205033Z">
+        <seg>Для прерогативы согласно SVL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Saamatta 1</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210655Z" creationid="Сергей" creationdate="20150127T210644Z">
+        <seg>Не получено 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Saamatta 2</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210647Z" creationid="Сергей" creationdate="20150127T210647Z">
+        <seg>Не получено 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Samalla kertaa ostetuista lääkkeistä korvataan enintään 3 kuukauden hoitoaikaa vastaava määrä.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T055106Z" creationid="Сергей" creationdate="20150128T055106Z">
+        <seg>Из купленных за раз лекарств возмещается сумма не более той, которая соответствует трёхмесячному лечению.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Saneerauslaasti on tarkoitettu sekä ulkotiloihin että normaaleille sisätilojen pinnoille.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T185355Z" creationid="Сергей" creationdate="20150131T185355Z">
+        <seg>Восстановительная штукатурка предназначена как для внешних, так и для обычных внутренни поверхностей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Saumauksessa on hyvä käyttää märkää sientä ja sauman reunat kannattaa teipata esimerkiksi maalarinteipillä, jotta aine ei sotke turhaan kivipintaa.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T191043Z" creationid="Сергей" creationdate="20150131T191043Z">
+        <seg>Для наложения швов хорошо использовать влажную губку, а края швов стоит оборачивать лентой, например малярной, чтобы состав не пачкал каменную поверхность.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Seloste</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203723Z" creationid="Сергей" creationdate="20150127T203723Z">
+        <seg>Описание</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Selvitys lääkärin, antamasta hoidosta ja peritystä palkkiosta</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204642Z" creationid="Сергей" creationdate="20150127T204642Z">
+        <seg>Перечень предоставляемого врачом ухода и взимаемой платы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Sirkka</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202849Z" creationid="Сергей" creationdate="20150127T202849Z">
+        <seg>Сиркка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Sivu 1</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203515Z" creationid="Сергей" creationdate="20150127T203515Z">
+        <seg>Страница 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Skinrock® -kivipinnat soveltuvat mainiosti sekä sisä- ja ulkopintoihin että kosteisiin tiloihin.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T150438Z" creationid="Сергей" creationdate="20150131T150438Z">
+        <seg>Каменная облицовка Skinrock® отлично подходит как для внутренних и внешних поверхностей, так и для влажных помещений.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Skinrock® -kivipinnat taittuvat 360 astetta, mikä antaa enemmän vapauksia suunnitteluun kuin normaali laatta.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T181336Z" creationid="Сергей" creationdate="20150131T181336Z">
+        <seg>Каменные облицовки Skinrock® преломляются на 360 градусов, что даёт большую свободу планирования, по сравнению с обычной плиткой.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Skinrock® -kivipinnat voidaan helposti leikata kulmahiomakoneella, joka on varustettu timanttilaikalla.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T155203Z" creationid="Сергей" creationdate="20150131T155203Z">
+        <seg>каменной облицовки Skinrock® можно легко резать угловой шлифовальной машиной, оснащенной алмазным диском.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Skinrock® -kivipintoja on tarjolla useita eri vaihtoehtoja, joista kutakin saa S- ja N-tyyppinä.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T153209Z" creationid="Сергей" creationdate="20150131T153209Z">
+        <seg>В наличие есть разные варианты каменной облицовки Skinrock®, каждый из которых можно получить в исплнениий С и Н.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Skinrock® -levyt tulee suojata rakennuspölyltä, jotta niiden pinnat eivät naarmuunnu tai likaannu.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T185104Z" creationid="Сергей" creationdate="20150131T185104Z">
+        <seg>Плиты Skinrock® необходимо защищать от строительной пыли, чтобы они не загрязнились и не оцарапались.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Skinrock® -pinta voidaan uudelleenkäsitiellä vasta, kun se on kuivunut.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T153952Z" creationid="Сергей" creationdate="20150131T153952Z">
+        <seg>После высыхания поверхность Skinrock® можно обрабатывать повторно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Skinrock® -pintoja on saatavilla kahta eri kokoa: 60 x 120 cm ja 120 x 250 cm.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T181428Z" creationid="Сергей" creationdate="20150131T181428Z">
+        <seg>Плитка Skinrock® доступна в двух разных размерах: 60 х 120 см и 120 х 250 см.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Skinrock® N- tyyppi tulee kiinnittää vain Skinrock® -liimalla.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T185623Z" creationid="Сергей" creationdate="20150131T185623Z">
+        <seg>Каменные облицовки Skinrock® типа Н должны крепится только клеем Skinrock®.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Skinrock® kiinnitetään helposti asennettavalle pinnalle saumalla tai ilman saumaa.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T182343Z" creationid="Сергей" creationdate="20150131T182343Z">
+        <seg>Каменные облицовки Skinrock® легко прикрепляются к поверхности с помощью швов или без них.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Skinrock® mallisto koostuu erilaisista kerroksista, luonnon liuskekivestä tai kvartsiitista.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T182245Z" creationid="Сергей" creationdate="20150131T182245Z">
+        <seg>Модельный ряд Skinrock® состоит из разных слоёв, дикого сланцевого камня или кварца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Summa</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203752Z" creationid="Сергей" creationdate="20150127T203752Z">
+        <seg>Сумма</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Sunnuntaina tai muuna pyhäpäivänä</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205534Z" creationid="Сергей" creationdate="20150127T205534Z">
+        <seg>В воскресенье или в другой праздник.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Suoja-aine voidaan levittää telalla tai siveltimellä.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T181658Z" creationid="Сергей" creationdate="20150131T181658Z">
+        <seg>Защитное средство можно наносить шпателем или малярной кисточкой.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Suosittelemme Skinrock® -kivipintojen kiinnittämiseen Skinrock® -liimaa tai saneerauslaastia (katso tarkemmat kiinnitystavat asennusohjeista).</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T153654Z" creationid="Сергей" creationdate="20150131T153654Z">
+        <seg>Для крепления каменной облицовки Skinrock® советуем использовать клей Skinrock® или восстановительную шпаклёвку (подробнее о креплении смотрите руководство по установке).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Suosittelemme sähkörasiareikien tekemiseen timanttikuppiterää.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T155608Z" creationid="Сергей" creationdate="20150131T155608Z">
+        <seg>Для сверления мы советуем использовать алмазные свёрла.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Suurempia kokoja tilauksesta.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T181443Z" creationid="Сергей" creationdate="20150131T181443Z">
+        <seg>Большие размеры изготавливаются под заказ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Syntymäaika</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205840Z" creationid="Сергей" creationdate="20150127T205840Z">
+        <seg>Дата рождения</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Säännöllisellä puhdistamisella pinta ja sen värit säilyvät kauniina.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T160353Z" creationid="Сергей" creationdate="20150131T160353Z">
+        <seg>При регулярной очистке поверность и её цвета остаются красивыми.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>T-alakoodi: B09S</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203241Z" creationid="Сергей" creationdate="20150127T203241Z">
+        <seg>Код отрасли: B09S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>TERVETULOA UUDELLEEN.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203415Z" creationid="Сергей" creationdate="20150127T203415Z">
+        <seg>ДОБРО ПОЖАЛОВАТЬ ВНОВЬ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>TOIMENPIDE</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205430Z" creationid="Сергей" creationdate="20150127T205430Z">
+        <seg>ДЕЙСТВИЯ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>TOIMITTAMISMERKINNÄT EI SAA PEITTÄÄ</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210556Z" creationid="Сергей" creationdate="20150127T210556Z">
+        <seg>ОТМЕТКИ И ПРОДАЖЕ НЕЛЬЗЯ ЗАКРЫВАТЬ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>TOSITE: 04038</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203225Z" creationid="Сергей" creationdate="20150127T203225Z">
+        <seg>ПОДТВЕРЖДЕНИЕ: 04038</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>TUNNUS: 150104014038</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T055336Z" creationid="Сергей" creationdate="20150128T055336Z">
+        <seg>код: 150104014038</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>TUTKIMUS</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205540Z" creationid="Сергей" creationdate="20150127T205540Z">
+        <seg>ОБСЛЕДОВАНИЕ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>TVR: 0080008800</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203424Z" creationid="Сергей" creationdate="20150127T203424Z">
+        <seg>ТОВАР: 0080008800</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Tampere</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T144342Z" creationid="Сергей" creationdate="20150131T144342Z">
+        <seg>Тампере</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Tarjoamme mahdollisuuden sisustaa helposti, jolloin vain luovuus asettaa rajasi.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T180727Z" creationid="Сергей" creationdate="20150131T180727Z">
+        <seg>Предлагаем возможность легко украсить помещение, когда лишь ваше творчество ограничивает вас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Tarvittavat resurssit</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T160102Z" creationid="Сергей" creationdate="20150131T160102Z">
+        <seg>Необходимые средства</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Taulavuori Teemu</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202905Z" creationid="Сергей" creationdate="20150127T202905Z">
+        <seg>Таулавуори Тээму</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Teitä hoitaneet:</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204429Z" creationid="Сергей" creationdate="20150127T204429Z">
+        <seg>За вами ухаживали:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Toimisto/laskutus</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204340Z" creationid="Сергей" creationdate="20150127T204340Z">
+        <seg>Офис/счёт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Toimistomaksu, sunnuntai</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203912Z" creationid="Сергей" creationdate="20150127T203912Z">
+        <seg>Конторская плата, воскресенье</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Tri / hoit.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203721Z" creationid="Сергей" creationdate="20150127T203721Z">
+        <seg>Уход</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Tulostettu 4.01.2015</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202341Z" creationid="Сергей" creationdate="20150127T202341Z">
+        <seg>Распечатано 4.01.2015</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Tutkimuksen / hoidon määränneen lääkärin / hammaslääkärin allekirjoitus ja leima tai nimen selvennys ja yksilöintitunnus sekä puhelinnumero</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202847Z" creationid="Сергей" creationdate="20150127T202847Z">
+        <seg>Подпись и печать или полное имя и личный код, а также номер телефона врача, назначившего уход, или зубного врача</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Tutkimus- tai hoitomääräys</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202513Z" creationid="Сергей" creationdate="20150127T202335Z">
+        <seg>Направление на обследование или уход</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Tutkimus- tai hoitotoimenpide</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202533Z" creationid="Сергей" creationdate="20150127T202533Z">
+        <seg>Обследование или мероприятие по уходу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Tutkimusten</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205603Z" creationid="Сергей" creationdate="20150127T205603Z">
+        <seg>обследований</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Tutkivan yksikön nimi, kun näyte on lähetetty muualle</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205617Z" creationid="Сергей" creationdate="20150127T205617Z">
+        <seg>Название отдела, проводившего анализы, отправлено другим</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Tutkivan yksikön nimi, kun näyte on lähetetty muualle.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203047Z" creationid="Сергей" creationdate="20150127T203047Z">
+        <seg>Название отдела, проводившего анализы, отправлено другим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Työnantajan tai vakuutusyhtiön nimi (täytetään työtapaturmatapauksessa)</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205955Z" creationid="Сергей" creationdate="20150127T205955Z">
+        <seg>Название работодателя или страховой компании (заполняется в случае трудовой травмы)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>UUSIMISMERKINNÄT</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210709Z" creationid="Сергей" creationdate="20150127T210709Z">
+        <seg>ОТМЕТКИ ОБ ОБНОВЛЕНИИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>VARM.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T055327Z" creationid="Сергей" creationdate="20150128T055327Z">
+        <seg>ПРОВЕРОЧНЫЙ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>VASTUUVAPAUSLAUSEKE</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T183232Z" creationid="Сергей" creationdate="20150131T183232Z">
+        <seg>ЗАЯВЛЕНИЕ ОБ ОСВОБОЖДЕНИИ ОТ ОТВЕТСТВЕННОСТИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>VISA</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203306Z" creationid="Сергей" creationdate="20150127T203306Z">
+        <seg>ВИЗА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Valmistelu</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T181455Z" creationid="Сергей" creationdate="20150131T181455Z">
+        <seg>Подготовка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Viitenro:</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203628Z" creationid="Сергей" creationdate="20150127T203628Z">
+        <seg>Ссылка:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Visa</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203312Z" creationid="Сергей" creationdate="20150127T203312Z">
+        <seg>Виза</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>X Kysymyksessä on sairaus, raskaus tai synnytys</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204744Z" creationid="Сергей" creationdate="20150127T204744Z">
+        <seg>Х Речь идёт о болезни, беременности или рождении</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>X Sairauden hoito</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210008Z" creationid="Сергей" creationdate="20150127T210008Z">
+        <seg>Х Лечение болезни</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>X erikoislääkärinä</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204721Z" creationid="Сергей" creationdate="20150127T204721Z">
+        <seg>X врачом-специалистом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Y-tunnus:</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204527Z" creationid="Сергей" creationdate="20150127T204527Z">
+        <seg>Код предприятия:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Yhteensä</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204343Z" creationid="Сергей" creationdate="20150127T204343Z">
+        <seg>Итого</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210511Z" creationid="Сергей" creationdate="20150127T210511Z">
+        <seg>Данные для связи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Zhenis Street 2, Yov 28</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203618Z" creationid="Сергей" creationdate="20150127T203618Z">
+        <seg>Адрес: Zhenis Street 2, Yov 28</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>info@skinrock.fi</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T183150Z" creationid="Сергей" creationdate="20150131T183150Z">
+        <seg>info@skinrock.fi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>km Muu kulkuneuvo (kuitti liitteenä)</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204958Z" creationid="Сергей" creationdate="20150127T204958Z">
+        <seg>км Другое транспортное средство (чек прилагается)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>kontrolli</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204602Z" creationid="Сергей" creationdate="20150127T204602Z">
+        <seg>контроль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>korvaukset</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205559Z" creationid="Сергей" creationdate="20150127T205559Z">
+        <seg>компенсация</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>lääkäriaseman nimi tai leima ja puhelinnumero</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205733Z" creationid="Сергей" creationdate="20150127T205733Z">
+        <seg>название медицинского участка или печать и номер телефона</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>n. 0,5 mm</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T181804Z" creationid="Сергей" creationdate="20150131T181804Z">
+        <seg>около 0,5 мм</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>n. 1,0 mm</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T181744Z" creationid="Сергей" creationdate="20150131T181744Z">
+        <seg>около 1,0 мм</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>n. 1,45 kg/m2</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T181841Z" creationid="Сергей" creationdate="20150131T181841Z">
+        <seg>около 1,45 кг/м2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>rintamaveteraanin tai miinanraivaajan kokoproteesihoito erikoishammasteknikolla</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202454Z" creationid="Сергей" creationdate="20150127T202454Z">
+        <seg>использование особой техники для обслуживания протезов ветеранов или сапёров</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>sairaus, raskaus tai synnytys</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202440Z" creationid="Сергей" creationdate="20150127T202440Z">
+        <seg>болезнь, беременность или рождение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>www.skinrock.fi</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T183151Z" creationid="Сергей" creationdate="20150131T183151Z">
+        <seg>www.skinrock.fi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>yhteensä</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205601Z" creationid="Сергей" creationdate="20150127T205601Z">
+        <seg>Итого</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>yleislääketieteen erikoislääkäri</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210459Z" creationid="Сергей" creationdate="20150127T210459Z">
+        <seg>врач общей практики</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>yleislääketieteen erikoislääkäri, työterveyslääkäri</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202943Z" creationid="Сергей" creationdate="20150127T202943Z">
+        <seg>врач общей практики, врач-специалист по здоровью труда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>yleislääkärinä</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204707Z" creationid="Сергей" creationdate="20150127T204707Z">
+        <seg>врачом общей практики</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Älä koskaan käytä luonnonkivipintojen puhdistukseen hioma- paperia tai happamia puhdistusaineita.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T160528Z" creationid="Сергей" creationdate="20150131T160528Z">
+        <seg>Никогда не используйте наждачную бумагу или кислые чистящие средства для очистки поверхностей из дикого камня.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Älä koskaan käytä luonnonkivipintojen puhdistukseen hiomapaperia tai happamia puhdistusaineita.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150131T183217Z" creationid="Сергей" creationdate="20150131T183217Z">
+        <seg>Никогда не используйте наждачную бумагу или кислые чистящие средства для очистки поверхностей из дикого камня.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>ä-hinta</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203743Z" creationid="Сергей" creationdate="20150127T203743Z">
+        <seg>Цена А</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Быстро сохнет и не оставляет следов.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T201921Z" creationid="Сергей" creationdate="20150128T201921Z">
+        <seg>Kuivuu nopeasti jälkiä jäämättä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Излишки очистителя удалите мягкой ветошью.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150129T060441Z" creationid="Сергей" creationdate="20150129T060441Z">
+        <seg>Ylijäämät poistetaan räsyllä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Легко смывает грязь, тормозную пыль, битум, жиры, смолы и масла, исключая необходимость разборки узлов.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T201538Z" creationid="Сергей" creationdate="20150128T201538Z">
+        <seg>Poista liat, jarrupölyt, bitumin, rasvat ja öljyt ilman koneiston purkamista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Можно применять для очистки инструмента и промышленного оборудования.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150129T060858Z" creationid="Сергей" creationdate="20150129T060858Z">
+        <seg>TUote sopii työvälineiden ja teollisuuskoneiden puhdistukseen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Не курить.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T195603Z" creationid="Сергей" creationdate="20150128T195603Z">
+        <seg>Tupakointi kielletty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Не подвергать воздействию температур свыше 50°C/122°F.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T195923Z" creationid="Сергей" creationdate="20150128T195923Z">
+        <seg>Ei saa altistaa yli 50 °C/ 122 °F lämpötiloille.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Не содержит хлора.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T201826Z" creationid="Сергей" creationdate="20150128T201826Z">
+        <seg>Ei sisällä klooria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Опасно!</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T201929Z" creationid="Сергей" creationdate="20150128T201929Z">
+        <seg>Varo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Очиститель тормозной системы</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T201152Z" creationid="Сергей" creationdate="20150128T201152Z">
+        <seg>Jarrujärjestelmän puhdistusaine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Перед использованием энергично встряхните баллон и обильно нанесите средство с расстояния 20-30 см на обрабатываемую поверхность.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150129T060624Z" creationid="Сергей" creationdate="20150129T060624Z">
+        <seg>Ennen käyttöä pudistele painesäiliö ja sumuta runsaasti ainetta käsiteltävälle pinnalle 20-30 cm etäisyydestä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Перед употреблением на лаках, красках и пластиках предварительно провести испытание на скрытом участке поверхности.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150129T060829Z" creationid="Сергей" creationdate="20150129T060829Z">
+        <seg>Ennen käyttöä lakka-, maali- ja muovipinnoille kokeile ainetta pinnan piilotetulla alueella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Применяется для тщательной чистки коробки передач, сцепления, тормозной системы, карбюратора и др.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150129T061107Z" creationid="Сергей" creationdate="20150129T061107Z">
+        <seg>Tuote on tarkoitettu vaihdelaatikon, kytkimen, jarrujärjestelmän, kaasuttimen ja muiden </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Разработан специально для профессионального обслуживания и ремонта тормозных систем.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T201340Z" creationid="Сергей" creationdate="20150128T201340Z">
+        <seg>Kehitetty nimenomaan jarrujärjestelmien hoitoon ja remonttiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Рекомендуется использовать для очистки электрических контактов.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T201759Z" creationid="Сергей" creationdate="20150128T201759Z">
+        <seg>Suositellaan metallikontaktien puhdistamiseen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Содержит: &gt; 30% алифатические углеводороды.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T201050Z" creationid="Сергей" creationdate="20150128T201050Z">
+        <seg>Sisältää yli 30% alifaattisia hiilivetyjä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Состав: гептан.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T200213Z" creationid="Сергей" creationdate="20150128T200213Z">
+        <seg>Sisällys: heptaani.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Указания по применению.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T201925Z" creationid="Сергей" creationdate="20150128T201925Z">
+        <seg>Käyttöohje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>механических деталей.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150129T061120Z" creationid="Сергей" creationdate="20150129T061120Z">
+        <seg>koneen osien puhdistukseen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>… … ….</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203329Z" creationid="Сергей" creationdate="20150127T203329Z">
+        <seg>Номер карточки: … … …</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

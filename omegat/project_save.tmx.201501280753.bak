@@ -1,0 +1,1497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8_1" segtype="sentence" srclang="FI"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="FI">
+        <seg>(lääkkeen nimi)</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210727Z" creationid="Сергей" creationdate="20150127T210727Z">
+        <seg>(наименование лекарства)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>*) Täytetään haettaessa korvausta suorakorvaustilityksenä.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202359Z" creationid="Сергей" creationdate="20150127T202359Z">
+        <seg>*) Заполняется при получении прямого возмещения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>0101D, Käynti yleislääkärillä, 45 m kipsaus, reponointi, injektiolääkitys</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203842Z" creationid="Сергей" creationdate="20150127T203842Z">
+        <seg>0101D, Посещение терапевта, 45 м гипсование, репанация, введение инъекции</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>0101a, enintään 10 min</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204804Z" creationid="Сергей" creationdate="20150127T204804Z">
+        <seg>0101a, не более 10 мин</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>0101b, enintään 20 min</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204813Z" creationid="Сергей" creationdate="20150127T204813Z">
+        <seg>0101b, не более 20 мин</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>0101c, enintään 30 min</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204816Z" creationid="Сергей" creationdate="20150127T204816Z">
+        <seg>0101c, не более 30 мин</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>0101d, enintään 45 min</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204822Z" creationid="Сергей" creationdate="20150127T204822Z">
+        <seg>0101d, не более 45 мин</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>0101e, enintään 60 min</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204828Z" creationid="Сергей" creationdate="20150127T204828Z">
+        <seg>0101e, не более 60 мин</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>0102, enintään 60 min</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204844Z" creationid="Сергей" creationdate="20150127T204844Z">
+        <seg>0102, не более 60 мин</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>0103, yli 60 min Tuntia pitempi käynti kestänyt ___ min</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204913Z" creationid="Сергей" creationdate="20150127T204913Z">
+        <seg>0103, свыше 60 min Приём длительнее часа продолжался ___ мин</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>0104, Lääkärinlausunto B, erittäin laaja ja perusteellinen</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205154Z" creationid="Сергей" creationdate="20150127T205154Z">
+        <seg>0104, Заключение врача B, очень подробное и обоснованное</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>0105, Lääkärinlausunto B, laaja</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205136Z" creationid="Сергей" creationdate="20150127T205136Z">
+        <seg>0105, Заключение врача B, подробное</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>0106, Lääkärinlausunto B, tavallinen</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205122Z" creationid="Сергей" creationdate="20150127T205122Z">
+        <seg>0106, Заключение врача B, обычное</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>0107, Lääkärintodistus A tai lääkärintodistus D</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205108Z" creationid="Сергей" creationdate="20150127T205108Z">
+        <seg>0107, Удостоверение врача A или удостоверение врача D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>050 2940 99100 Sirkka Fax</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210539Z" creationid="Сергей" creationdate="20150127T210539Z">
+        <seg>050 2940 99100 Sirkka Факс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>1 Rec- Lääke, vahvuus, määrä tai hoidon kestoaika, annostus ja käyttötarkoitus ARCOXIA tabletti, kalvopäällysteinen 90 mg MSD läpipainopakkaus, 1 x 7 fol</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210254Z" creationid="Сергей" creationdate="20150127T210254Z">
+        <seg>1 Рецепт Лекарство, сила, количество и продолжительность приёма, дозировка ARCOXIA таблетки в оболочке 90 мг MSD выдавливаемая упаковка, 1 x 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>1 Rec.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210419Z" creationid="Сергей" creationdate="20150127T210419Z">
+        <seg>1 Цепепт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>1 tabletka v den' v techeniye odnoy nedeli, yesli zapyasfye bolit</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210314Z" creationid="Сергей" creationdate="20150127T210314Z">
+        <seg>1 таблекта в день в течение одной недели при боли в запястье</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>2 Rec.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210420Z" creationid="Сергей" creationdate="20150127T210420Z">
+        <seg>2 Цепепт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>2TTA Taulavuori Teemu</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204437Z" creationid="Сергей" creationdate="20150127T204437Z">
+        <seg>2TTA Таулавуори Тээму</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>AIKA: 10:43:50</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203158Z" creationid="Сергей" creationdate="20150127T203158Z">
+        <seg>ВРЕМЯ: 10:43:50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>ALLEKIRJOITUS</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205750Z" creationid="Сергей" creationdate="20150127T205750Z">
+        <seg>ПОДПИСЬ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>ALV 0% (AVL 34-36§)</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204405Z" creationid="Сергей" creationdate="20150127T204405Z">
+        <seg>НДС % (Закон о НДС §34-36)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>ASIAKKAAN KAPPALE</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203136Z" creationid="Сергей" creationdate="20150127T203136Z">
+        <seg>ЧАСТЬ КЛИЕНТА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Ajanvaraus:</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204551Z" creationid="Сергей" creationdate="20150127T204551Z">
+        <seg>Бронирование времени:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Alennus</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203746Z" creationid="Сергей" creationdate="20150127T203746Z">
+        <seg>Скидка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Alle 12-vuotiaan paino</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205849Z" creationid="Сергей" creationdate="20150127T205849Z">
+        <seg>Вес меньше веса 12-летнего</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Allekirjoitus, nimen selvennys ja yksilöintitunnus</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210749Z" creationid="Сергей" creationdate="20150127T210749Z">
+        <seg>ПОдпись, имя и личный код</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Alv%</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203727Z" creationid="Сергей" creationdate="20150127T203727Z">
+        <seg>НДС%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Anlagetik</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210318Z" creationid="Сергей" creationdate="20150127T210318Z">
+        <seg>Анальгетик</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Arkipäivänä klo 21-7</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205509Z" creationid="Сергей" creationdate="20150127T205509Z">
+        <seg>Будний день 21-7 часов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>B-lausunto eläkettä varten, lääkärinlausunto C tai E</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205256Z" creationid="Сергей" creationdate="20150127T205238Z">
+        <seg>заключение В для лекарства, заключение С или Е</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Drozdovva Polina</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202410Z" creationid="Сергей" creationdate="20150127T202410Z">
+        <seg>Дрохдова Полина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Drozdowa Polina</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203610Z" creationid="Сергей" creationdate="20150127T203610Z">
+        <seg>Дроздова Полина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>EUR</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203341Z" creationid="Сергей" creationdate="20150127T203341Z">
+        <seg>ЕВРО</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Esim.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205217Z" creationid="Сергей" creationdate="20150127T205217Z">
+        <seg>Например</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Esittäkää Kela-kortti apteekissa.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210811Z" creationid="Сергей" creationdate="20150127T210811Z">
+        <seg>Предоставьте карту Кела в аптеке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Fax</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202951Z" creationid="Сергей" creationdate="20150127T202951Z">
+        <seg>Факс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Henkilötunnus</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202422Z" creationid="Сергей" creationdate="20150127T202422Z">
+        <seg>Личный номер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Hinnoitus</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210326Z" creationid="Сергей" creationdate="20150127T210326Z">
+        <seg>Ценообразование</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Hinta</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203747Z" creationid="Сергей" creationdate="20150127T203747Z">
+        <seg>Цена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Hoito annettu</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204647Z" creationid="Сергей" creationdate="20150127T204647Z">
+        <seg>Уход предоставлен</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Jos olette tyytymätön apteekin lääkkeen hinnasta vähentämään sairausvakuutuslain mukaiseen korvaukseen, voitte pyytää muutoksenhakua varten kirjallisen päätöksen Kelasta tai työpaikkakassasta 6 kuukauden kuluessa lääkkeen ostamisesta.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T055306Z" creationid="Сергей" creationdate="20150128T055306Z">
+        <seg>Если вы недовольны скидке на лекарство, соответствующую закону "О медицинской страховке", вы можете запросить для обжалования письменное решение Kela или на рабочем месте в течение 6 иесяцев после покупки лекарства.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>KASSA: 001</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203211Z" creationid="Сергей" creationdate="20150127T203211Z">
+        <seg>КАССА: 001</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>KIITOS KÄYNNISTÄ!</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203358Z" creationid="Сергей" creationdate="20150127T203358Z">
+        <seg>СПАСИБО ЗА ПОСЕЩЕНИЕ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>KORTTIMAKSUTOSITE</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203144Z" creationid="Сергей" creationdate="20150127T203144Z">
+        <seg>ЧЕК ОПЛАТЫ КАРТОЧКОЙ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>KOTIKÄYNTI</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204838Z" creationid="Сергей" creationdate="20150127T204838Z">
+        <seg>ПОСЕЩЕНИЕ НА ДОМУ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Kipsaus, tavallinen</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202802Z" creationid="Сергей" creationdate="20150127T202802Z">
+        <seg>Гипсование, обычное</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Kittilä</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204540Z" creationid="Сергей" creationdate="20150127T204540Z">
+        <seg>Киттиля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Koodi</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202523Z" creationid="Сергей" creationdate="20150127T202523Z">
+        <seg>Код</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Koodi Toimenpide</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205441Z" creationid="Сергей" creationdate="20150127T205441Z">
+        <seg>Код Мероприятия</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Koodi Tutkimus</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205550Z" creationid="Сергей" creationdate="20150127T205550Z">
+        <seg>Код Обследование</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Korvauksen peruste *)</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202614Z" creationid="Сергей" creationdate="20150127T202614Z">
+        <seg>Основание для возмещения *)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Korvaukset</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205629Z" creationid="Сергей" creationdate="20150127T205629Z">
+        <seg>Компенсации</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Korvaus</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203024Z" creationid="Сергей" creationdate="20150127T203024Z">
+        <seg>Возмещение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Korvaus *)</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204754Z" creationid="Сергей" creationdate="20150127T204754Z">
+        <seg>Возмещение *)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Korvaushakemus erillisellä lomakkeella</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203112Z" creationid="Сергей" creationdate="20150127T203112Z">
+        <seg>Заявление на возмещение подаётся на отдельном бланке</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Korvausperusteet yhteensä</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203008Z" creationid="Сергей" creationdate="20150127T203008Z">
+        <seg>Основания для возмещения итого</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Kotikäynnin yhteydessä</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204937Z" creationid="Сергей" creationdate="20150127T204937Z">
+        <seg>В связи с посещением на дому</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Kotipaikka:</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204534Z" creationid="Сергей" creationdate="20150127T204534Z">
+        <seg>Местонахождение:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Kustannukset</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205625Z" creationid="Сергей" creationdate="20150127T205625Z">
+        <seg>Расходы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Kustannukset yhteensä</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202956Z" creationid="Сергей" creationdate="20150127T202956Z">
+        <seg>Расходы итого</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Kustannus</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202600Z" creationid="Сергей" creationdate="20150127T202600Z">
+        <seg>Расходы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Kysymyksessä on</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202428Z" creationid="Сергей" creationdate="20150127T202428Z">
+        <seg>Речь идёт о</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>KÄTEISKUITTI</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203510Z" creationid="Сергей" creationdate="20150127T203510Z">
+        <seg>ЧЕК ОПЛАТЫ НАЛИЧНЫМИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>KÄYNTIAIKA</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205450Z" creationid="Сергей" creationdate="20150127T205450Z">
+        <seg>ВРЕМЯ ПОСЕЩЕНИЯ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Käyntipäivä</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202541Z" creationid="Сергей" creationdate="20150127T202541Z">
+        <seg>День посещения</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>LAUSUNTO</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205003Z" creationid="Сергей" creationdate="20150127T205003Z">
+        <seg>ЗАКЛЮЧЕНИЕ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>LISÄTIETOJA</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205622Z" creationid="Сергей" creationdate="20150127T205622Z">
+        <seg>ДОПОЛНИТЕЛЬНЫЕ ДАННЫЕ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>LY: 022411040</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203300Z" creationid="Сергей" creationdate="20150127T203300Z">
+        <seg>Код LY: 022411040</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Lauantaina tai pyhäpäivän aattonako  klo 18:n jälkeen</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205522Z" creationid="Сергей" creationdate="20150127T205522Z">
+        <seg>В субботу или накануне праздника после 18.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Levintie 1590</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203536Z" creationid="Сергей" creationdate="20150127T203536Z">
+        <seg>Адрес: Levintie 1590</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Levintie 1590 Puh.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210530Z" creationid="Сергей" creationdate="20150127T210530Z">
+        <seg>Адрес: 1590 Тел.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Levintie1590, 99130 SIRKKA</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204514Z" creationid="Сергей" creationdate="20150127T204514Z">
+        <seg>Адрес: Levintie 1590, 99130 SIRKKA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Lkm / Aika</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203735Z" creationid="Сергей" creationdate="20150127T203735Z">
+        <seg>Кол. / Время</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>LÄÄKEMÄÄRÄYS</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205832Z" creationid="Сергей" creationdate="20150127T205832Z">
+        <seg>ПРЕДПИСАНИЕ ВРАЧА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>LÄÄKÄRI JA</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205653Z" creationid="Сергей" creationdate="20150127T205653Z">
+        <seg>ВРАЧ И </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>LÄÄKÄRIASEMA</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204446Z" creationid="Сергей" creationdate="20150127T204446Z">
+        <seg>МЕДИЦИНСКИЙ УЧАСТОК</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>LÄÄKÄRIN</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204927Z" creationid="Сергей" creationdate="20150127T204927Z">
+        <seg>ВРАЧА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>LÄÄKÄRIN MÄÄRÄÄMÄT TUTKIMUS- TAI HOITOTOIMENPITEET.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202504Z" creationid="Сергей" creationdate="20150127T202504Z">
+        <seg>ПРЕДПИСАННЫЕ ВРАЧОМ, ОБСЛЕДОВАНИЯ ИЛИ МЕРОПРИЯТИЙ ПО УХОДУ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Lääke</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202811Z" creationid="Сергей" creationdate="20150127T202811Z">
+        <seg>Лекарство</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Lääke Lidocain, Panacod, Burana</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203959Z" creationid="Сергей" creationdate="20150127T203959Z">
+        <seg>Воскресенье, лидокаин, панакод, бурана</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Lääkemääräyksen uusiminen, yksi tai useampi; ei vastaanoton yhteydessä</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205422Z" creationid="Сергей" creationdate="20150127T205422Z">
+        <seg>Обновление предписания врача, одно- или многократное, не в связи с приёмом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Lääkemääräyksen vastaanottanut apteekki, Kela ja työpaikkakassa antavat kukin omalta osaltaan lisätietoja tässä lääkemääräyksessä olevien tietojen käsittelystä.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T055004Z" creationid="Сергей" creationdate="20150128T055004Z">
+        <seg>Принявшая рецепт аптека, Кела или отвественный служащий по месту работы со своей стороны предоставляют дополнительные данные об обработке рецепта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Lääkemääräys on voimassa vuoden sen määräämis- tai uusimispäivästä lukien.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210940Z" creationid="Сергей" creationdate="20150127T210940Z">
+        <seg>Рецепт действует в течение года после выписки или дня обновления</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Lääkärin allekirjoitus tai lääkäriaseman edustajan allekirjoitus ja nimen selvennys</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205821Z" creationid="Сергей" creationdate="20150127T205821Z">
+        <seg>Подпись врача или подпись и имя представителя медицинского участка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Lääkärin leima tai nimi, yksilöintitunnus ja erikoisala;</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205718Z" creationid="Сергей" creationdate="20150127T205718Z">
+        <seg>Печать врача или его имя, личный код и специализация;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Lääkärin vastaanotto</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204105Z" creationid="Сергей" creationdate="20150127T204105Z">
+        <seg>Приём врача</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>MATKA</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204923Z" creationid="Сергей" creationdate="20150127T204923Z">
+        <seg>ВЫЕЗД</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>MEDILAPPI</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204456Z" creationid="Сергей" creationdate="20150127T204456Z">
+        <seg>"МЕДИЛАППИ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Maksettu 04.01.2015:</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204415Z" creationid="Сергей" creationdate="20150127T204415Z">
+        <seg>Уплачено 04.01.2015:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>MediLappi Oy Levi</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205744Z" creationid="Сергей" creationdate="20150127T205744Z">
+        <seg>АО "Медилеви" Леви</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Medilappi Oy</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203518Z" creationid="Сергей" creationdate="20150127T203518Z">
+        <seg>АО "Медилеви"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Medilevi Oy</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203131Z" creationid="Сергей" creationdate="20150127T203131Z">
+        <seg>АО "Медилеви"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Merkitään sairausvakuutustaksan mukainen koodi.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202520Z" creationid="Сергей" creationdate="20150127T202520Z">
+        <seg>Обозначается код, соответствующий таксе медицинской страховки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Muu</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210010Z" creationid="Сергей" creationdate="20150127T210010Z">
+        <seg>Иное</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Muut laitosmaksut ja tarvikkeet</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204100Z" creationid="Сергей" creationdate="20150127T204100Z">
+        <seg>Прочие услуги и принадлежности</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Muuta etuutta varten</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205041Z" creationid="Сергей" creationdate="20150127T205041Z">
+        <seg>Для другой прерогативы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>NRO: 425811</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203448Z" creationid="Сергей" creationdate="20150127T203448Z">
+        <seg>НОМЕР: 425811</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Nimen selvennys ja yksilöintitunnus</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210448Z" creationid="Сергей" creationdate="20150127T210448Z">
+        <seg>Имя и личный код</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Näytteen ottaneen, tutkimuksen tehneen tai hoidon antaneen henkilön / palvelujen tuottajan nimi tai leima ja allekirjoitus.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203037Z" creationid="Сергей" creationdate="20150127T203037Z">
+        <seg>Имя или печать и подпись поставщика услуг / лица, предоставившего уход, проводившего исследование или анализы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Oma auto</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204942Z" creationid="Сергей" creationdate="20150127T204942Z">
+        <seg>На своей машине</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Omavastuuosuus</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203021Z" creationid="Сергей" creationdate="20150127T203021Z">
+        <seg>Оплата из своего кармана</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Osa 1</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205835Z" creationid="Сергей" creationdate="20150127T205835Z">
+        <seg>Часть 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Otetaan 1</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210628Z" creationid="Сергей" creationdate="20150127T210600Z">
+        <seg>Принято 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Otetaan 2</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210636Z" creationid="Сергей" creationdate="20150127T210602Z">
+        <seg>Принято 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>PERUSTELUT ERIKSEEN LUETELLUISTA, SELVITYSTÄ VAATIVISTA LÄÄKKEISTÄ SV-KORVAUSTA VARTEN</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210415Z" creationid="Сергей" creationdate="20150127T210415Z">
+        <seg>ОБОСНОВАНИЕ ОТДЕЛЬНО ПЕРЕЧИСЛЕННЫХ ЛЕКАРСТ, ТРЕБУЮЩИХ ПОЯСНЕНИЯ ДЛЯ ВОЗМЕЩЕНИЯ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>POIKKEAVA</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205446Z" creationid="Сергей" creationdate="20150127T205446Z">
+        <seg>ИСКЛЮЧИТЕЛЬНОЕ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>PUHELIN-/</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205302Z" creationid="Сергей" creationdate="20150127T205302Z">
+        <seg>ТЕЛЕФОН-/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>PVM: 0P.01.15</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203153Z" creationid="Сергей" creationdate="20150127T203153Z">
+        <seg>ДАТА: 0P.01.15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Paikka ja aika</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210733Z" creationid="Сергей" creationdate="20150127T210733Z">
+        <seg>Время и место</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Paikka ja aika.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202823Z" creationid="Сергей" creationdate="20150127T202823Z">
+        <seg>Время и место.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Paikka, aika ja allekirjoitus</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210435Z" creationid="Сергей" creationdate="20150127T210435Z">
+        <seg>Время, место и подпись</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Pankkikortti</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203530Z" creationid="Сергей" creationdate="20150127T203530Z">
+        <seg>Банковская карточка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Perityt palkkiot eritellään kohdittain.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204659Z" creationid="Сергей" creationdate="20150127T204659Z">
+        <seg>Взимаемые платы расписаны по пунктам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Potilaan nimi</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202404Z" creationid="Сергей" creationdate="20150127T202404Z">
+        <seg>Имя пациента</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Puh 050 2940</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202949Z" creationid="Сергей" creationdate="20150127T202949Z">
+        <seg>Тел 050 2940</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Puh.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204518Z" creationid="Сергей" creationdate="20150127T204518Z">
+        <seg>Тел.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Puhelimitse/postitse annetut hoito-ohjeet lääkemääräyksineen</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205342Z" creationid="Сергей" creationdate="20150127T205342Z">
+        <seg>Укзаания по уходу и лекарства прописаны по телефону/почтой.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Pvm</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203636Z" creationid="Сергей" creationdate="20150127T203636Z">
+        <seg>Дата</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Pvm: 04.01.2015 As.nro:</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203553Z" creationid="Сергей" creationdate="20150127T203553Z">
+        <seg>ДАТА: 04.01.15 Номер клиента:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>RAD</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204025Z" creationid="Сергей" creationdate="20150127T204025Z">
+        <seg>Радиолог</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Ranteen natiiviröntgen</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204013Z" creationid="Сергей" creationdate="20150127T204013Z">
+        <seg>Рентген запястья</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Rec.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210332Z" creationid="Сергей" creationdate="20150127T210332Z">
+        <seg>Цепепт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Rep.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210716Z" creationid="Сергей" creationdate="20150127T210716Z">
+        <seg>Рецепт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Röntgentutkimukset</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204040Z" creationid="Сергей" creationdate="20150127T204040Z">
+        <seg>Рентгеновское исследование</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>SUMMA</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203337Z" creationid="Сергей" creationdate="20150127T203337Z">
+        <seg>СУММА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>SV 1 ATK 04.12 Kelan hyväksymä atk-lääkemääräys 843-7</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210859Z" creationid="Сергей" creationdate="20150127T210859Z">
+        <seg>SV 1 АТК 04.12 Автоматическая анкета, одобренная Kela 843-7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>SV 120 07.11 Kelan hyväksymä lomake 950</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210821Z" creationid="Сергей" creationdate="20150127T210821Z">
+        <seg>SV 120 07.11 Анкета, одобренная Kela 950</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>SV 3 07.11 Kelan hyväksymä lomake 930</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203105Z" creationid="Сергей" creationdate="20150127T203105Z">
+        <seg>SV 3 07.11 Анкета, одобренная Kela 930</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>SVL:n mukaista etuutta varten</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205033Z" creationid="Сергей" creationdate="20150127T205033Z">
+        <seg>Для прерогативы согласно SVL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Saamatta 1</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210655Z" creationid="Сергей" creationdate="20150127T210644Z">
+        <seg>Не получено 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Saamatta 2</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210647Z" creationid="Сергей" creationdate="20150127T210647Z">
+        <seg>Не получено 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Samalla kertaa ostetuista lääkkeistä korvataan enintään 3 kuukauden hoitoaikaa vastaava määrä.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T055106Z" creationid="Сергей" creationdate="20150128T055106Z">
+        <seg>Из купленных за раз лекарств возмещается сумма не более той, которая соответствует трёхмесячному лечению.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Seloste</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203723Z" creationid="Сергей" creationdate="20150127T203723Z">
+        <seg>Описание</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Selvitys lääkärin, antamasta hoidosta ja peritystä palkkiosta</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204642Z" creationid="Сергей" creationdate="20150127T204642Z">
+        <seg>Перечень предоставляемого врачом ухода и взимаемой платы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Sirkka</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202849Z" creationid="Сергей" creationdate="20150127T202849Z">
+        <seg>Сиркка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Sivu 1</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203515Z" creationid="Сергей" creationdate="20150127T203515Z">
+        <seg>Страница 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Summa</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203752Z" creationid="Сергей" creationdate="20150127T203752Z">
+        <seg>Сумма</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Sunnuntaina tai muuna pyhäpäivänä</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205534Z" creationid="Сергей" creationdate="20150127T205534Z">
+        <seg>В воскресенье или в другой праздник.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Syntymäaika</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205840Z" creationid="Сергей" creationdate="20150127T205840Z">
+        <seg>Дата рождения</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>T-alakoodi: B09S</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203241Z" creationid="Сергей" creationdate="20150127T203241Z">
+        <seg>Код отрасли: B09S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>TERVETULOA UUDELLEEN.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203415Z" creationid="Сергей" creationdate="20150127T203415Z">
+        <seg>ДОБРО ПОЖАЛОВАТЬ ВНОВЬ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>TOIMENPIDE</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205430Z" creationid="Сергей" creationdate="20150127T205430Z">
+        <seg>ДЕЙСТВИЯ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>TOIMITTAMISMERKINNÄT EI SAA PEITTÄÄ</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210556Z" creationid="Сергей" creationdate="20150127T210556Z">
+        <seg>ОТМЕТКИ И ПРОДАЖЕ НЕЛЬЗЯ ЗАКРЫВАТЬ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>TOSITE: 04038</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203225Z" creationid="Сергей" creationdate="20150127T203225Z">
+        <seg>ПОДТВЕРЖДЕНИЕ: 04038</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>TUNNUS: 150104014038</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T055336Z" creationid="Сергей" creationdate="20150128T055336Z">
+        <seg>код: 150104014038</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>TUTKIMUS</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205540Z" creationid="Сергей" creationdate="20150127T205540Z">
+        <seg>ОБСЛЕДОВАНИЕ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>TVR: 0080008800</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203424Z" creationid="Сергей" creationdate="20150127T203424Z">
+        <seg>ТОВАР: 0080008800</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Taulavuori Teemu</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202905Z" creationid="Сергей" creationdate="20150127T202905Z">
+        <seg>Таулавуори Тээму</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Teitä hoitaneet:</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204429Z" creationid="Сергей" creationdate="20150127T204429Z">
+        <seg>За вами ухаживали:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Toimisto/laskutus</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204340Z" creationid="Сергей" creationdate="20150127T204340Z">
+        <seg>Офис/счёт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Toimistomaksu, sunnuntai</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203912Z" creationid="Сергей" creationdate="20150127T203912Z">
+        <seg>Конторская плата, воскресенье</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Tri / hoit.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203721Z" creationid="Сергей" creationdate="20150127T203721Z">
+        <seg>Уход</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Tulostettu 4.01.2015</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202341Z" creationid="Сергей" creationdate="20150127T202341Z">
+        <seg>Распечатано 4.01.2015</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Tutkimuksen / hoidon määränneen lääkärin / hammaslääkärin allekirjoitus ja leima tai nimen selvennys ja yksilöintitunnus sekä puhelinnumero</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202847Z" creationid="Сергей" creationdate="20150127T202847Z">
+        <seg>Подпись и печать или полное имя и личный код, а также номер телефона врача, назначившего уход, или зубного врача</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Tutkimus- tai hoitomääräys</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202513Z" creationid="Сергей" creationdate="20150127T202335Z">
+        <seg>Направление на обследование или уход</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Tutkimus- tai hoitotoimenpide</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202533Z" creationid="Сергей" creationdate="20150127T202533Z">
+        <seg>Обследование или мероприятие по уходу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Tutkimusten</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205603Z" creationid="Сергей" creationdate="20150127T205603Z">
+        <seg>обследований</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Tutkivan yksikön nimi, kun näyte on lähetetty muualle</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205617Z" creationid="Сергей" creationdate="20150127T205617Z">
+        <seg>Название отдела, проводившего анализы, отправлено другим</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Tutkivan yksikön nimi, kun näyte on lähetetty muualle.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203047Z" creationid="Сергей" creationdate="20150127T203047Z">
+        <seg>Название отдела, проводившего анализы, отправлено другим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Työnantajan tai vakuutusyhtiön nimi (täytetään työtapaturmatapauksessa)</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205955Z" creationid="Сергей" creationdate="20150127T205955Z">
+        <seg>Название работодателя или страховой компании (заполняется в случае трудовой травмы)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>UUSIMISMERKINNÄT</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210709Z" creationid="Сергей" creationdate="20150127T210709Z">
+        <seg>ОТМЕТКИ ОБ ОБНОВЛЕНИИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>VARM.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150128T055327Z" creationid="Сергей" creationdate="20150128T055327Z">
+        <seg>ПРОВЕРОЧНЫЙ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>VISA</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203306Z" creationid="Сергей" creationdate="20150127T203306Z">
+        <seg>ВИЗА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Viitenro:</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203628Z" creationid="Сергей" creationdate="20150127T203628Z">
+        <seg>Ссылка:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Visa</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203312Z" creationid="Сергей" creationdate="20150127T203312Z">
+        <seg>Виза</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>X Kysymyksessä on sairaus, raskaus tai synnytys</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204744Z" creationid="Сергей" creationdate="20150127T204744Z">
+        <seg>Х Речь идёт о болезни, беременности или рождении</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>X Sairauden hoito</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210008Z" creationid="Сергей" creationdate="20150127T210008Z">
+        <seg>Х Лечение болезни</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>X erikoislääkärinä</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204721Z" creationid="Сергей" creationdate="20150127T204721Z">
+        <seg>X врачом-специалистом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Y-tunnus:</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204527Z" creationid="Сергей" creationdate="20150127T204527Z">
+        <seg>Код предприятия:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Yhteensä</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204343Z" creationid="Сергей" creationdate="20150127T204343Z">
+        <seg>Итого</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Yhteystiedot</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210511Z" creationid="Сергей" creationdate="20150127T210511Z">
+        <seg>Данные для связи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>Zhenis Street 2, Yov 28</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203618Z" creationid="Сергей" creationdate="20150127T203618Z">
+        <seg>Адрес: Zhenis Street 2, Yov 28</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>km Muu kulkuneuvo (kuitti liitteenä)</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204958Z" creationid="Сергей" creationdate="20150127T204958Z">
+        <seg>км Другое транспортное средство (чек прилагается)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>kontrolli</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204602Z" creationid="Сергей" creationdate="20150127T204602Z">
+        <seg>контроль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>korvaukset</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205559Z" creationid="Сергей" creationdate="20150127T205559Z">
+        <seg>компенсация</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>lääkäriaseman nimi tai leima ja puhelinnumero</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205733Z" creationid="Сергей" creationdate="20150127T205733Z">
+        <seg>название медицинского участка или печать и номер телефона</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>rintamaveteraanin tai miinanraivaajan kokoproteesihoito erikoishammasteknikolla</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202454Z" creationid="Сергей" creationdate="20150127T202454Z">
+        <seg>использование особой техники для обслуживания протезов ветеранов или сапёров</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>sairaus, raskaus tai synnytys</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202440Z" creationid="Сергей" creationdate="20150127T202440Z">
+        <seg>болезнь, беременность или рождение</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>yhteensä</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T205601Z" creationid="Сергей" creationdate="20150127T205601Z">
+        <seg>Итого</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>yleislääketieteen erikoislääkäri</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T210459Z" creationid="Сергей" creationdate="20150127T210459Z">
+        <seg>врач общей практики</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>yleislääketieteen erikoislääkäri, työterveyslääkäri</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T202943Z" creationid="Сергей" creationdate="20150127T202943Z">
+        <seg>врач общей практики, врач-специалист по здоровью труда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>yleislääkärinä</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T204707Z" creationid="Сергей" creationdate="20150127T204707Z">
+        <seg>врачом общей практики</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>ä-hinta</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203743Z" creationid="Сергей" creationdate="20150127T203743Z">
+        <seg>Цена А</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FI">
+        <seg>… … ….</seg>
+      </tuv>
+      <tuv lang="RU" changeid="Сергей" changedate="20150127T203329Z" creationid="Сергей" creationdate="20150127T203329Z">
+        <seg>Номер карточки: … … …</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
